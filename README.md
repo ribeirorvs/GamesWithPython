@@ -1,0 +1,1 @@
+This repo is to store files while I study about basic games with Python
